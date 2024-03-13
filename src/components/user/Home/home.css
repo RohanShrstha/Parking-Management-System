@@ -1,0 +1,42 @@
+.calculator-display {
+    width: 80%;
+    height: 300px;
+    border-radius: 21px 21px 0 0;
+}
+
+h6,
+h4 {
+    border-left: 10px solid #010bc4;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.bn45 {
+    width: 46%;
+
+}
+
+.bn46 {
+    padding-left: 8px;
+    width: 46%;
+
+}
+
+.insertbuttons {
+    position: relative;
+}
+
+.insertbuttons .download-buttons {
+    position: absolute;
+    top: 58%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    border: none;
+    cursor: pointer;
+
+}
+
+.loanshadow {
+    box-shadow: rgba(57, 61, 195, 0.4) 5px 5px, rgba(37, 47, 183, 0.3) 10px 10px, rgba(56, 14, 172, 0.2) 15px 15px, rgba(9, 0, 137, 0.1) 20px 20px, rgba(7, 0, 67, 0.05) 25px 25px;
+}
